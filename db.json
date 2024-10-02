@@ -1,7 +1,7 @@
 {
     "Questions": [
         {
-            "Questions":"What is javascript",
+            "questions":"What is javascript",
             "option1":"A programming language",
             "option2":"A library",
             "option3":"A framework",
